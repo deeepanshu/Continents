@@ -1,5 +1,12 @@
 import { useState, useEffect } from 'react';
 
+/**
+ * 
+ * useWindowSize
+ * returns - new window size whenever window size is changed and a boolean which determines if app is opened in mobile.
+ * 
+ */
+
 export default function useWindowSize() {
   const [windowSize, setWindowSize] = useState({
     width: 0,

@@ -21,6 +21,11 @@ export interface IContinent {
 export interface IContinentData {
   continent: IContinent;
 }
+
+export interface IContinentListData {
+  continents: IContinent[];
+}
+
 export interface IContinentVars {
   code: string;
 }

@@ -12,6 +12,11 @@ interface ParamTypes {
   code: string
 }
 
+/**
+ * Loads a particular continents information from Graphql API
+ * Uses useWindowSize hook to check if viewed from mobile or desktop
+ * If mobile view is detected, view is changed to cards otherwise, a table is used.
+ */
 const ContinentDetails = () => {
   const { code } = useParams<ParamTypes>();
   const { isMobile } = useWindowSize()
