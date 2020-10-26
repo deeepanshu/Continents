@@ -15,7 +15,7 @@ const client = new ApolloClient({
 function App() {
   return (
     <div className="container pt-3">
-      <Router>
+      <Router basename="/Continents">
         <ApolloProvider client={client}>
           <Switch>
             <Route path="/:code">
