@@ -2,7 +2,7 @@
 
 Hosted Url: https://deeepanshu.github.io/Continents/
 
-GraphQL API: https://countries.trevorblades.
+GraphQL API: https://countries.trevorblades.com/
 
 ### Setup
 To install: `yarn install`
