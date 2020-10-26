@@ -5,7 +5,7 @@ Hosted Url: https://deeepanshu.github.io/Continents/
 GraphQL API: https://countries.trevorblades.
 
 #### Mobile View
-![Mobile View](https://github.com/deeepanshu/Continents/blob/master/examples/Mobile_view_1.jpeg "Mobile View")
+![Mobile View](https://github.com/deeepanshu/Continents/blob/master/examples/Mobile_view_1.jpeg "Mobile View" =100x20)
 ![Details Mobile View](https://github.com/deeepanshu/Continents/blob/master/examples/Mobile_view_2.jpeg "Details Mobile View")
 
 
